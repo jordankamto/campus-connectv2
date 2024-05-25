@@ -1,0 +1,8 @@
+{
+    "env":{
+        "HOST":"localhost",
+        "USERNAME":"root",
+        "PASSWORD":"",
+        "DATABASE":"user_auth"
+    }
+}
